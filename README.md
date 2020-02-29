@@ -4,7 +4,7 @@
 
 ## Introduction
 By answering the prompts of this aplication, 
-you can generate a read me faster.
+you can generate a readme faster.
 
 
 
