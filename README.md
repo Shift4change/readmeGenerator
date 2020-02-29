@@ -1,4 +1,4 @@
-# My Readme Generator
+# Generate a Readme
 
 
 
