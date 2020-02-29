@@ -4,7 +4,7 @@
 
 ## Introduction
 By answering the prompts of this aplication, 
-You can generate a read me faster.
+you can generate a read me faster.
 
 
 
@@ -19,7 +19,7 @@ You can generate a read me faster.
  
  
  ## Expectations
- The Readme generated will provide  badges and contact info of the GitHub profile specified in the prompts you answer.
+ The Readme generated will provide  badges and contact information about the GitHub profile specified in the prompts you answer.
  
  
  ![Img](second.png)
