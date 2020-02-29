@@ -19,7 +19,7 @@ you can generate a read me faster.
  
  
  ## Expectations
- The Readme generated will provide  badges and contact information about the GitHub profile specified in the prompts you answer.
+ The Readme generated will provide  badges and contact information about the GitHub profile specified by you in the prompts 
  
  
  ![Img](second.png)
